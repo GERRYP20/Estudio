@@ -3,7 +3,6 @@
 public class prb {
     
     public static void main(String[] args) {
-        System.out.println("Hola citlali");
-        System.out.println("TECNOLOYIA");
+        System.out.println("Este es mi cambio en mi branch citlali");
     }
 }
